@@ -35,6 +35,8 @@ Change colorscheme, font face, and font size as you wish
 
 **Save**.
 
+![fonts](https://i.imgur.com/3bUmRAA.png)
+
 ## Linux Environment
 Open the WSL Terminal, access your Linux, and run
 ```sh
@@ -51,6 +53,10 @@ cd devenv-linux
 chmod +x install.sh
 ./install.sh
 ```
+
+![terminal](https://i.imgur.com/6h6UjsZ.png)
+
+
 
 And that's about it.
 
